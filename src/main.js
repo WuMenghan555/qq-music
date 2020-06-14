@@ -7,4 +7,4 @@ import 'common/stylus/index.styl'
 new Vue({
   el: '#app',
   render: h => h(App)
-});
+})
